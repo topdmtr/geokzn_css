@@ -1,8 +1,6 @@
-body{
-	/* width: 100%; */
-	/* //min-width: 370px; */
-}
-div {
-	/* //width: 100%; */
-	/* //min-width: 370px; */
+@media screen and (max-width: 1279px){
+  .wrapper {
+      width: 100%;
+      min-width: 370px;
+  }
 }
