@@ -3,4 +3,7 @@
       width: 100%;
       min-width: 370px;
   }
+  body{
+    margin: 0 10px;
+  }
 }
