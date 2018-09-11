@@ -2,6 +2,7 @@
   .wrapper {
       width: 100%;
       min-width: 370px;
+      padding: 0;
   }
   body{
     margin: 0 10px;
