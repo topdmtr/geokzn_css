@@ -63,6 +63,13 @@
     margin: 0;
   }
   .top-nav>ul>li.active{
-    display: inline-block;
+  display: block;
+  z-index: 3;
+  width: 200px;
+  filter: alpha(Opacity=50);
+  -moz-opacity: 0.5;
+  -khtml-opacity: 0.5;
+  background-color: #ffffff;
+  opacity: 0.9;
   }
 }
