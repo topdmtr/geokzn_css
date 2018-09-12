@@ -62,7 +62,7 @@
   body {
     margin: 0;
   }
-  .top-nav>ul>li.active{
+  .top-nav>ul.active li{
   display: block;
   z-index: 3;
   width: 170px;
