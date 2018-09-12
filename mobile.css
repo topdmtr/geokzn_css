@@ -44,3 +44,11 @@
     top: 45%;
 }
 }
+@media screen and (max-width: 550px){
+  .top-nav>ul>li{
+    display: none;
+  }
+  .top-nav>ul{
+    url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAGFBMVEVMaXEAAAAAAAAAAAAAAAAAAAAAAAAAAACrC2ehAAAAB3RSTlMAFyivsO/zlwIHeAAAADZJREFUeNpjYCAImNzKkUCKAoNqOQoIYnB3RFYvUsKQLoAswFiGKYCqRbgE01AMa0ddOgAuBQC8dlwItzHTwQAAAABJRU5ErkJggg==');
+  }
+}
