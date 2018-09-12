@@ -1,12 +1,12 @@
 @media screen and (max-width: 1279px){
   .wrapper {
       width: 100%;
-      min-width: 370px;
+      min-width: 330px;
       padding: 0;
   }
   body{
     margin: 0 10px;
-    min-width: 370px;
+    min-width: 330px;
   }
 }
 @media screen and (max-width: 1160px){
@@ -50,6 +50,7 @@
   }
   .top-nav>ul{
     background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAGFBMVEVMaXEAAAAAAAAAAAAAAAAAAAAAAAAAAACrC2ehAAAAB3RSTlMAFyivsO/zlwIHeAAAADZJREFUeNpjYCAImNzKkUCKAoNqOQoIYnB3RFYvUsKQLoAswFiGKYCqRbgE01AMa0ddOgAuBQC8dlwItzHTwQAAAABJRU5ErkJggg==');
+    margin-left: 10px;
     height: 30px;
     background-repeat: no-repeat;
     width: 35px;
@@ -57,5 +58,8 @@
   }
   .top-nav-phone {
     top: 0;
+  }
+  body {
+    margin: 0;
   }
 }
