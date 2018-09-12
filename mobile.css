@@ -62,7 +62,7 @@
   body {
     margin: 0;
   }
-  .active{
+  .active li{
     display: inline-block;
   }
 }
