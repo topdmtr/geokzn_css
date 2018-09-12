@@ -49,6 +49,11 @@
     display: none;
   }
   .top-nav>ul{
-    url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAGFBMVEVMaXEAAAAAAAAAAAAAAAAAAAAAAAAAAACrC2ehAAAAB3RSTlMAFyivsO/zlwIHeAAAADZJREFUeNpjYCAImNzKkUCKAoNqOQoIYnB3RFYvUsKQLoAswFiGKYCqRbgE01AMa0ddOgAuBQC8dlwItzHTwQAAAABJRU5ErkJggg==');
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAGFBMV…oIYnB3RFYvUsKQLoAswFiGKYCqRbgE01AMa0ddOgAuBQC8dlwItzHTwQAAAABJRU5ErkJggg==);
+    height: 30px;
+    background-repeat: no-repeat;
+  }
+  .top-nav-phone {
+    top: 0;
   }
 }
