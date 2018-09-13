@@ -94,7 +94,14 @@
   }
   #stopline .basket {
       left: 0;
-      width: 50%;  
+      width: 50%;
+  }
+  #stopline .row {
+    width: 90%;
+  }
+  #stopline .mail {
+    margin-left: 10px;
+  }
 }
 @media screen and (max-width: 550px){
   .top-nav>ul>li{
