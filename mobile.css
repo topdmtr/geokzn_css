@@ -53,6 +53,18 @@
     top: 20%;
 }
 }
+@media screen and (max-width: 890px){
+  #stopline .row {
+    width: 94%;
+  }
+  #stopline .mail {
+    width: 70%;
+  }
+  #stopline .basket {
+    left: 20px;
+    width: 65%;
+  }
+}
 @media screen and (max-width: 750px){
 .top-nav-phone {
     top: 45%;
