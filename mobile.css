@@ -22,6 +22,9 @@
   #stopline .mail {
     width: 47%;
   }
+  .wrapper.main-body .row{
+    display: flex;
+  }
 }
 @media screen and (max-width: 1160px){
   .top-nav a {
