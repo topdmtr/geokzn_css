@@ -10,11 +10,17 @@
   }
   #stopline .row {
       display: flex;
-      width: 90%;
+      width: 91%;
       clear: both;
       float: none;
       position: relative;
       justify-content: space-between;
+  }
+  #stopline .basket {
+      left: 70px;
+  }
+  #stopline .mail {
+    width: 47%;
   }
 }
 @media screen and (max-width: 1160px){
