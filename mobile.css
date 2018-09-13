@@ -30,7 +30,7 @@
     flex: none;
     width: 220px;
   }
-  .main-body .header {
+  .wrapper.main-body .row header {
     padding: 5px 5px;
     display: flex;
   }
