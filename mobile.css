@@ -85,9 +85,16 @@
       display: block;
       line-height: 0px;
   }
-  #stopline .mail {
-      width: 80%;
+  #stopline .mail a {
+    display: block;
+    line-height: 0;
   }
+  #stopline .mail {
+    width: 60%;
+  }
+  #stopline .basket {
+      left: 0;
+      width: 50%;  
 }
 @media screen and (max-width: 550px){
   .top-nav>ul>li{
