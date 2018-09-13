@@ -8,14 +8,6 @@
     margin: 0 10px;
     min-width: 330px;
   }
-}
-@media screen and (max-width: 1160px){
-  .top-nav a {
-    padding: 17px 10px 13px 8px;
-  }
-  .top-nav-phone {
-    padding-top: 10px;
-  }
   #stopline .row {
       display: flex;
       width: 90%;
@@ -23,6 +15,14 @@
       float: none;
       position: relative;
       justify-content: space-between;
+  }
+}
+@media screen and (max-width: 1160px){
+  .top-nav a {
+    padding: 17px 10px 13px 8px;
+  }
+  .top-nav-phone {
+    padding-top: 10px;
   }
 }
 @media screen and (max-width: 1075px){
