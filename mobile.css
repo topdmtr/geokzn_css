@@ -102,6 +102,12 @@
   #stopline .mail {
     margin-left: 10px;
   }
+  #stopline .phone{
+    top: 7px;
+  }
+  #stopline .phone>div>div{
+      margin-bottom: 6px;
+  }
 }
 @media screen and (max-width: 550px){
   .top-nav>ul>li{
