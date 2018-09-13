@@ -79,7 +79,7 @@
 }
 @media screen and (max-width: 720px){
 #stopline {
-    height: 55px;
+    height: 60px;
   }
   #stopline .basket>span {
       display: block;
@@ -103,10 +103,10 @@
     margin-left: 10px;
   }
   #stopline .phone{
-    top: 7px;
+    top: 6px;
   }
   #stopline .phone>div>div{
-      margin-bottom: 6px;
+      margin-bottom: 5px;
   }
 }
 @media screen and (max-width: 550px){
