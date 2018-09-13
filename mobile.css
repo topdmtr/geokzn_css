@@ -25,6 +25,15 @@
   .wrapper.main-body .row{
     display: flex;
   }
+  .wrapper.main-body .row #logo,
+  .wrapper.main-body .col-md-3{
+    flex: none;
+    width: 220px;
+  }
+  .main-body .header {
+    padding: 5px 5px;
+    display: flex;
+  }
 }
 @media screen and (max-width: 1160px){
   .top-nav a {
