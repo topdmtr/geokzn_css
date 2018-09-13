@@ -77,6 +77,18 @@
     top: 45%;
 }
 }
+@media screen and (max-width: 720px){
+#stopline {
+    height: 55px;
+  }
+  #stopline .basket>span {
+      display: block;
+      line-height: 0px;
+  }
+  #stopline .mail {
+      width: 80%;
+  }
+}
 @media screen and (max-width: 550px){
   .top-nav>ul>li{
     display: none;
