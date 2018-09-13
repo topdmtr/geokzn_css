@@ -65,6 +65,13 @@
     width: 65%;
   }
 }
+@media screen and (max-width: 800px){
+  #stopline .basket {
+      left: 10px;
+      width: 65%;
+      margin-right: -60px;
+  }
+}
 @media screen and (max-width: 750px){
 .top-nav-phone {
     top: 45%;
