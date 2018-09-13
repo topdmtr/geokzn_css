@@ -139,3 +139,15 @@
   margin-left: 40px;
   }
 }
+@media screen and (max-width: 480px){
+  #stopline .mail {
+    display: none;
+  }
+  #stopline .row {
+    width: 86%;
+  }
+  #stopline .basket {
+    left: 20px;
+    width: 60%;
+  }
+}
