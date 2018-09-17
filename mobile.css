@@ -33,6 +33,19 @@
   .wrapper.main-body .row header {
     padding: 5px 5px;
     display: flex;
+    justify-content: space-between;
+  }
+}
+@media screen and (max-width: 1225px){
+  .main-body header .city {
+      margin-right: 3px;
+  }
+  .main-body header .phones {
+    margin: 16px 7px;
+  }
+  .main-body header .basket {
+    margin-left: 4px;
+    margin-right: 4px;
   }
 }
 @media screen and (max-width: 1160px){
@@ -41,6 +54,12 @@
   }
   .top-nav-phone {
     padding-top: 10px;
+  }
+  .main-body header .basket {
+    width: auto;
+  }
+  .main-body header .phones {
+    font-size: 17px;
   }
 }
 @media screen and (max-width: 1075px){
