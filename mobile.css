@@ -89,6 +89,17 @@
     top: 20%;
 }
 }
+@media screen and (max-width: 970px){
+  .wrapper.main-body .row header {
+      flex-wrap: wrap;
+  }
+  .main-body header .added {
+    width: 100%;
+  }
+}
+
+
+
 @media screen and (max-width: 890px){
   #stopline .row {
     width: 94%;
