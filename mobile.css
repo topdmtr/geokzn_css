@@ -129,7 +129,7 @@
     top: 45%;
 }
 }
-@media screen and (max-width: 720px){
+@media screen and (max-width: 721px){
 #stopline {
     height: 60px;
   }
@@ -203,7 +203,7 @@
     width: 50%;
   }
 }
-@media screen and (max-width: 550px){
+@media screen and (max-width: 552px){
   .top-nav>ul>li{
     display: none;
   }
@@ -232,6 +232,12 @@
   opacity: 0.9;
   margin-left: 40px;
   }
+  .main-body header #logo {
+    margin: 0 5px 0 -5px;
+  }
+  .main-body header .city {
+    width: 9%;
+  }
 }
 @media screen and (max-width: 480px){
   #stopline .mail {
@@ -243,5 +249,15 @@
   #stopline .basket {
     left: 20px;
     width: 60%;
+  }
+  .wrapper.main-body .row #logo {
+    width: 35%;
+  }
+  .main-body header #logo a {
+    width: 100%;
+  }
+  #logo a img {
+    width: 100%;
+    height: auto;
   }
 }
