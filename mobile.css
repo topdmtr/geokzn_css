@@ -256,8 +256,8 @@
   .main-body header #logo a {
     width: 100%;
   }
-  #logo a img {
+  .main-body header #logo a img {
     width: 100%;
-    height: auto; 
+    height: auto;
   }
 }
