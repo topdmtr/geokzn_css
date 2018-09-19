@@ -110,8 +110,11 @@
   }
 }
 @media screen and (max-width: 805px){
-  .main-body header .added {
-    width: auto;
+  .main-body header .city {
+      width: 6%;
+  }
+  .main-body header .basket {
+    width: 12%;
   }
 }
 @media screen and (max-width: 800px){
@@ -156,6 +159,48 @@
   }
   #stopline .phone>div>div{
       margin-bottom: 5px;
+  }
+  .main-body header .basket {
+    width: 11%;
+    padding-left: 42px;
+  }
+  .main-body header .phones {
+    font-size: 15px;
+    width: 139px;
+  }
+  .main-body header .phones {
+    padding: 9px 0 0 26px;
+  }
+  .main-body header .city .pre {
+    font-size: 14px;
+  }
+  .main-body header .city {
+    padding-left: 34px;
+  }
+  .main-body header .phones {
+    margin: 16px 4px;
+  }
+  .main-body header .basket a.pre {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 657px){
+  .main-body header #logo a {
+      width: 200px;
+      margin-left: 0px;
+  }
+  .wrapper.main-body .row #logo {
+    width: 200px;
+  }
+  .main-body header .city {
+    margin-right: 3px;
+    width: 14%;
+  }
+  .main-body header .basket {
+    width: 19%;
+  }
+  .main-body header .added {
+    width: 50%;
   }
 }
 @media screen and (max-width: 550px){
