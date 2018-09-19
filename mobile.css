@@ -260,4 +260,38 @@
     width: 100%;
     height: auto;
   }
+  .main-body header .city{
+    margin-top: 2px;
+  }
+  .main-body header .phones {
+    margin: 2px 4px;
+    height: 30px;
+  }
+  .main-body header .basket {
+    width: 26%;
+    margin-top: 3px;
+  }
+}
+@media screen and (max-width: 430px){
+.main-body header .phones {
+    background-size: 10%;
+  }
+  .main-body header .city {
+    background-size: 35%;
+  }
+  .main-body header .basket {
+    background-size: 18%;
+  }
+  .main-body header .city {
+    padding-left: 28px;
+  }
+  .main-body header .phones{
+    padding-left: 20px;
+  }
+  .main-body header .basket{
+    padding-left: 32px;
+  }
+  .main-body header #logo {
+    margin: 0 -15px 0 -15px;
+  }
 }
