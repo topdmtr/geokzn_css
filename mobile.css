@@ -48,6 +48,9 @@
   .search .text {
     width: 75%;
   }
+  .wrapper.main-body :last-child{
+	  display: block;	  
+  }
 }
 @media screen and (max-width: 1225px){
   .main-body header .city {
