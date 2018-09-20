@@ -323,7 +323,7 @@
     width: 220px;
     margin: 0 auto;
   }
-  .wrapper.main-body .col-md-9 .col-lg-12{
+  .wrapper.main-body .col-md-9.col-lg-12{
     width: 97%;
   }
 }
