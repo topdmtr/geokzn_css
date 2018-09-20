@@ -63,6 +63,12 @@
     margin-left: 4px;
     margin-right: 4px;
   }
+  .bx-controls-direction :first-child{
+	  left:-20px
+  }
+  .bx-controls-direction :last-child{
+	  right:-20px;
+  }
 }
 @media screen and (max-width: 1160px){
   .top-nav a {
