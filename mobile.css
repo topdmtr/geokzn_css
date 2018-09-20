@@ -36,6 +36,21 @@
     justify-content: space-between;
     width: 100%;
   }
+  .search {
+    width: 100%;
+    background-size: 100% 57px;
+  }
+  .search .white {
+    width: 94%;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .search .text {
+    width: 75%;
+  }
+  .search .dd {
+    width: 20%;
+  }
 }
 @media screen and (max-width: 1225px){
   .main-body header .city {
