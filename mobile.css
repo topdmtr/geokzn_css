@@ -329,6 +329,9 @@
   .search .dd {
     width: 95px;
   }
+  .search .white {
+    width: 85%;
+  }
 }
 @media screen and (max-width: 430px){
 .main-body header .phones {
