@@ -63,10 +63,10 @@
     margin-left: 4px;
     margin-right: 4px;
   }
-  .bx-controls-direction :first-child{
-	  left:-20px
+  .bx-wrapper .bx-prev{
+	  left:-20px;
   }
-  .bx-controls-direction :last-child{
+  .popular a.bx-next{
 	  right:-20px;
   }
 }
