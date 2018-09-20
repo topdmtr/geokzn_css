@@ -326,6 +326,9 @@
   .wrapper.main-body .col-md-9.col-lg-12{
     width: 97%;
   }
+  .search .dd {
+    width: 95px;
+  }
 }
 @media screen and (max-width: 430px){
 .main-body header .phones {
