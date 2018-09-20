@@ -147,6 +147,10 @@
       width: 65%;
       margin-right: -60px;
   }
+  .row iframe {
+    width: 600px !important;
+    height: 300px !important;
+  }
 }
 @media screen and (max-width: 750px){
 .top-nav-phone {
