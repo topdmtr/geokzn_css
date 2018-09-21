@@ -51,6 +51,9 @@
   .wrapper.main-body :last-child{
 	  display: block;	  
   }
+  .wrapper.main-body .breadcrumbs span {
+	  display: auto;
+  }
 }
 @media screen and (max-width: 1225px){
   .main-body header .city {
