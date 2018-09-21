@@ -56,7 +56,16 @@
   }
   .wrapper.main-body .row iframe {
     display: initial;
-  }  
+  }
+  footer.col-md-12.col-lg-15{
+	  width: 98%;
+  }
+  footer {
+    background-size: contain;
+  }
+  footer .footer {
+    background-size: contain;
+  }
 }
 @media screen and (max-width: 1225px){
   .main-body header .city {
@@ -88,6 +97,18 @@
   }
   .main-body header .phones {
     font-size: 17px;
+  }
+  .popular {
+    padding: 12px 5px;
+  }
+  .popular div.bx-wrapper {
+    width: 90%;
+  }
+  .popular a.bx-prev{
+	  left:-45px;
+  }
+  .popular a.bx-next{
+	  right:-45px;
   }
 }
 @media screen and (max-width: 1075px){
@@ -143,6 +164,9 @@
   }
   .search .white {
     width: 91%;
+  }
+  .popular div.bx-wrapper {
+    width: 80%;
   }
 }
 @media screen and (max-width: 805px){
