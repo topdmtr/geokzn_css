@@ -131,6 +131,7 @@
   }
   footer .contacts {
     flex: none;
+	width: 230px;
   }
   .footer .col-lg-offset-1{
 	  left: 0px;
@@ -177,6 +178,9 @@
   .popular div.bx-wrapper {
     width: 80%;
   }
+  footer .fast {
+    margin: 0 10px;
+  }  
 }
 @media screen and (max-width: 805px){
   .main-body header .city {
