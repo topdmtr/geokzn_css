@@ -52,8 +52,11 @@
 	  display: block;	  
   }
   .wrapper.main-body .breadcrumbs span {
-	  display: auto;
+	  display: initial;
   }
+  .wrapper.main-body .row iframe {
+    display: initial;
+  }  
 }
 @media screen and (max-width: 1225px){
   .main-body header .city {
