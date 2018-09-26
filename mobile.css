@@ -81,6 +81,9 @@
   .copy .col-lg-15{
 	  width: 100%;
   }
+  .col-md-12 .col-lg-15{
+	  width: 98%;
+  }
 }
 @media screen and (max-width: 1225px){
   .main-body header .city {
