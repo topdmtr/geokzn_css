@@ -197,6 +197,19 @@
     margin: 0 10px;
   }  
 }
+@media screen and (max-width: 850px){
+  #artklen {
+    position: unset;
+	line-height: initial;
+  }
+  .copy {
+    height: 60px;
+  }	
+  #artklen>a>img {
+    bottom: 17px;
+    right: 10px;
+  }
+}
 @media screen and (max-width: 805px){
   .main-body header .city {
       width: 6%;
