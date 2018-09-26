@@ -523,6 +523,9 @@
   #artklen>a>img {
     bottom: 52px;
   }
+  #goup {
+    bottom: 45px;
+  }
 }
 @media screen and (max-width: 389px){
   .row iframe {
