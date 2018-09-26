@@ -81,7 +81,7 @@
   .copy .col-lg-15{
 	  width: 100%;
   }
-  .col-md-12 .col-lg-15{
+  .col-md-12, .col-lg-15{
 	  width: 98%;
   }
 }
