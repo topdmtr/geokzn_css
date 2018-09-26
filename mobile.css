@@ -532,6 +532,9 @@
   #goup {
     bottom: 45px;
   }
+  .rights a{
+	  display: block;
+  }
 }
 @media screen and (max-width: 389px){
   .row iframe {
