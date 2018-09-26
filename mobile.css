@@ -84,6 +84,9 @@
   .col-md-12, .col-lg-15{
 	  width: 98%;
   }
+  .main-body header .added{
+	  width: auto;
+  }
 }
 @media screen and (max-width: 1225px){
   .main-body header .city {
