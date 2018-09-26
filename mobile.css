@@ -482,6 +482,11 @@
     height: 222px;
   }
 }
+@media screen and (max-width: 432px){
+  #artklen>a>img {
+    bottom: 37px;
+  }
+}
 @media screen and (max-width: 430px){
 .main-body header .phones {
     background-size: 10%;
