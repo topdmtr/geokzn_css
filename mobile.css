@@ -78,6 +78,9 @@
   .main-text .row .col-md-15.col-lg-15{
 	width: 97%; 
   }
+  .copy .col-lg-15{
+	  width: 100%;
+  }
 }
 @media screen and (max-width: 1225px){
   .main-body header .city {
@@ -449,9 +452,6 @@
   }
   .main-text {
     padding: 10px 10px 15px 5px;
-  }
-  .main-text p:last-child {
-    padding: 0 0 15px 0;
   }
 }
 @media screen and (max-width: 461px){
