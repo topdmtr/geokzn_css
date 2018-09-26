@@ -405,6 +405,9 @@
     width: 450px;
     height: 249px;
   }
+  .rights span {
+    margin-right: 10px;
+  }
 }
 @media screen and (max-width: 480px){
   #stopline .mail {
