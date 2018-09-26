@@ -243,6 +243,9 @@
     width: 650px;
     height: 362px;
   }
+  .wrapper.main-body .row .popular.popular-main{
+	  display: none;	  
+  }
 }
 @media screen and (max-width: 721px){
 #stopline {
