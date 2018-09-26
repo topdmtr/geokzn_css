@@ -244,7 +244,7 @@
     height: 362px;
   }
   .wrapper.main-body .row .popular.popular-main{
-	  display: none;	  
+	  display: none	  
   }
 }
 @media screen and (max-width: 721px){
@@ -482,11 +482,6 @@
     height: 222px;
   }
 }
-@media screen and (max-width: 449px){
-  #artklen>a>img {
-    bottom: 37px;
-  }
-}
 @media screen and (max-width: 430px){
 .main-body header .phones {
     background-size: 10%;
@@ -512,6 +507,9 @@
   .row iframe {
     width: 380px;
     height: 210px;
+  }
+  #artklen>a>img {
+    bottom: 37px;
   }
 }
 @media screen and (max-width: 410px){
