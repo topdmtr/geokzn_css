@@ -48,7 +48,7 @@
   .search .text {
     width: 75%;
   }
-  .wrapper.main-body :last-child{
+  .wrapper.main-body:last-child{
 	  display: block;	  
   }
   .wrapper.main-body .breadcrumbs span {
