@@ -66,6 +66,18 @@
   .footer {
     background-size: contain;
   }
+  .main-body:after {
+    width: 100%;
+  }
+  .main-text {
+    width: 97%;
+  }
+  .main-text .row {
+    width: 97%;
+  }
+  .main-text .row .col-md-15.col-lg-15{
+	width: 97%; 
+  }
 }
 @media screen and (max-width: 1225px){
   .main-body header .city {
