@@ -473,7 +473,11 @@
     height: 222px;
   }
 }
-
+@media screen and (max-width: 449px){
+  #artklen>a>img {
+    bottom: 37px;
+  }
+}
 @media screen and (max-width: 430px){
 .main-body header .phones {
     background-size: 10%;
@@ -505,6 +509,19 @@
   .row iframe {
     width: 360px;
     height: 199px;
+  }
+  #artklen {
+    width: 60%;
+	margin-top: 15px;
+  }
+  .copy .rights {
+    line-height: 25px;
+  }
+  .copy {
+    height: 140px;
+  }
+  #artklen>a>img {
+    bottom: 52px;
   }
 }
 @media screen and (max-width: 389px){
