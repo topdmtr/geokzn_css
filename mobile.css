@@ -63,7 +63,7 @@
   footer {
     background-size: contain;
   }
-  footer .footer {
+  .footer {
     background-size: contain;
   }
 }
@@ -126,10 +126,10 @@
   .search .white {
     width: 93%;
   }
-  footer .footer .row{
+  .footer .row{
 	  display: flex;
   }
-  footer .contacts {
+  .footer .contacts {
     flex: none;
 	width: 230px;
   }
@@ -178,7 +178,7 @@
   .popular div.bx-wrapper {
     width: 80%;
   }
-  footer .fast {
+  .footer .fast {
     margin: 0 10px;
   }  
 }
@@ -304,7 +304,22 @@
   .row iframe {
     width: 550px;
     height: 306px;
+  }
+  .footer .row {
+    flex-direction: column;
+  }
+  .footer .fast,
+  .footer .contacts {
+    margin: 0;
+    text-align: center;
+    width: 100%;
+  }
+  .footer .contacts{
+      margin-bottom: 20px;
   }  
+  .footer .fast ul{
+	  margin: 0;
+  }
 }
 @media screen and (max-width: 600px){
   .search .white {
