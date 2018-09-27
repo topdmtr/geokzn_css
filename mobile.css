@@ -52,6 +52,12 @@
   .wrapper.main-body div:nth-child(4){
 	  display: block;	  
   }
+  .wrapper.main-body div:nth-child(3){
+	  margin-left: 10px;
+  }
+  .wrapper.main-body .row>div{
+	  margin-left: 15px;
+  }
   .wrapper.main-body .breadcrumbs span {
 	  display: initial;
   }
