@@ -440,16 +440,18 @@
     margin-right: 10px;
   }
 }
-@media screen and (max-width: 480px){
+@media screen and (max-width: 495px){
   #stopline .mail {
     display: none;
   }
+}
+@media screen and (max-width: 480px){
   #stopline .row {
     width: 86%;
   }
   #stopline .basket {
     left: 20px;
-    width: 60%;
+    width: 100%;
   }
   .wrapper.main-body .row #logo {
     width: 35%;
