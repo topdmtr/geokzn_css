@@ -380,7 +380,10 @@
   .row iframe {
     width: 500px;
     height: 277px;
-  }  
+  }
+  #stopline .phone {
+    left: 15px !important; 
+  }
 }
 @media screen and (max-width: 552px){
   .top-nav>ul>li{
