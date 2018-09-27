@@ -381,9 +381,15 @@
     width: 500px;
     height: 277px;
   }
-  #stopline .phone {
-    left: 15px !important;
-	top: 6px;
+  #stopline .basket {
+    left: 5px;
+    width: 69%;
+  }
+  #stopline .mail {
+    margin-left: 5px;
+  }
+  #stopline .mail .e {
+    margin-right: 0px;
   }
 }
 @media screen and (max-width: 552px){
