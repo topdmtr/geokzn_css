@@ -53,10 +53,10 @@
 	  display: block;	  
   }
   .wrapper.main-body div:nth-child(3){
-	  margin-left: 10px;
+	  margin-left: 15px;
   }
   .wrapper.main-body .row>p{
-	  margin-left: 15px;
+	  margin-left: 0px;
   }
   .wrapper.main-body .breadcrumbs span {
 	  display: initial;
