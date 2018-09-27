@@ -87,6 +87,9 @@
   .main-body header .added{
 	  width: auto;
   }
+  .main-body header .basket a.basket-count {
+    white-space: normal;
+  }
 }
 @media screen and (max-width: 1225px){
   .main-body header .city {
