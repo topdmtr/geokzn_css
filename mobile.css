@@ -185,6 +185,11 @@
     width: 92%;
   }
 }
+@media screen and (max-width: 925px){
+  #stopline .mail {
+    margin-left: 10px;
+  }
+}
 @media screen and (max-width: 890px){
   #stopline .row {
     width: 94%;
@@ -219,6 +224,13 @@
     right: 10px;
   }
 }
+@media screen and (max-width: 821px){
+  #stopline .basket {
+      left: 10px;
+      width: 65%;
+      margin-right: -60px;
+  }
+}
 @media screen and (max-width: 805px){
 /*  .main-body header .city {
       width: 6%;
@@ -231,11 +243,6 @@
   }
 }
 @media screen and (max-width: 800px){
-  #stopline .basket {
-      left: 10px;
-      width: 65%;
-      margin-right: -60px;
-  }
   .row iframe {
     width: 690px;
     height: 384px;
