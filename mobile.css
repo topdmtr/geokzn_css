@@ -382,7 +382,8 @@
     height: 277px;
   }
   #stopline .phone {
-    left: 15px !important; 
+    left: 15px !important;
+	top: 6px;
   }
 }
 @media screen and (max-width: 552px){
