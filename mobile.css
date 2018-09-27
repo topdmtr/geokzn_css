@@ -48,11 +48,11 @@
   .search .text {
     width: 75%;
   }
-  .wrapper.main-body div:nth-child(3),
-  .wrapper.main-body div:nth-child(4){
+  .wrapper.main-body div.row:nth-child(3),
+  .wrapper.main-body div.row:nth-child(4){
 	  display: block;	  
   }
-  .wrapper.main-body div:nth-child(3){
+  .wrapper.main-body div.row:nth-child(3){
 	  margin-left: 15px;
   }
   .wrapper.main-body .row>p{
