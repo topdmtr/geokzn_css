@@ -402,6 +402,10 @@
   .discount-small-image img {
     width: 500px;
   }
+  .discount-small-title {
+    width: -webkit-fill-available;
+    padding: 10px 10px;
+  }	
 }
 @media screen and (max-width: 600px){
   .search .white {
