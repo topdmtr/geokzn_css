@@ -191,6 +191,7 @@
     width: auto;
     float: none;
     margin-bottom: 40px;
+	margin-left: 5px;
   }
   .discount-small .btn-more {
     margin-bottom: 50px;
@@ -317,6 +318,9 @@
     height: auto;
     width: 600px;
   }
+  .discount-small .discount-small-image {
+    width: auto;
+  }
 }
 @media screen and (max-width: 721px){
  /* .main-body header .basket {
@@ -395,6 +399,9 @@
   .footer .fast ul{
 	  margin: 0;
   }
+  .discount-small-image img {
+    width: 500px;
+  }
 }
 @media screen and (max-width: 600px){
   .search .white {
@@ -464,6 +471,9 @@
   }
   .rights span {
     margin-right: 10px;
+  }
+  .discount-small-image img {
+    width: 400px;
   }
 }
 @media screen and (max-width: 495px){
@@ -568,6 +578,10 @@
   }
   #artklen>a>img {
     bottom: 37px;
+  }
+  .discount-small-image img {
+    height: auto;
+    width: 350px;
   }
 }
 @media screen and (max-width: 410px){
