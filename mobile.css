@@ -187,6 +187,14 @@
     width: min-content;
     margin: 0 auto;
   }
+  .discount-small-text {
+    width: auto;
+    float: none;
+    margin-bottom: 30px;
+  }
+  .discount-small .btn-more {
+    margin-bottom: 50px;
+  }
 }  
 @media screen and (max-width: 970px){
   .wrapper.main-body .row header {
