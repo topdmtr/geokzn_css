@@ -97,6 +97,10 @@
   .main-body header .basket a.basket-count {
     white-space: normal;
   }
+  .tovar-cat .tiles{
+	  display: flex;
+	  flex-wrap: wrap;
+  }
 }
 @media screen and (max-width: 1225px){
   .main-body header .city {
