@@ -530,6 +530,11 @@
     display: none;
   }
 }
+@media screen and (max-width: 487px){
+	.wrapper.main-body>div.row:nth-child(4)>div:nth-child(3){
+		width: auto;
+	}
+}
 @media screen and (max-width: 480px){
   #stopline .row {
     width: 86%;
