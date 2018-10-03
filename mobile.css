@@ -100,9 +100,9 @@
   .tovar-cat .tiles{
 	  display: flex;
 	  flex-wrap: wrap;
-	  justify-content: space-between;
+	  justify-content: space-around;
   }
-  .tovar-cat .tiles .col-md-3.tovar{
+  .col-lg-15 .tovar-cat .tiles .col-md-3.tovar{
 	  margin: 5px;
   }
 }
@@ -190,7 +190,7 @@
 }
 }
 @media screen and (max-width: 1000px){
-  .wrapper.main-body div.row:nth-child(3) div:nth-child(4){
+  .wrapper.main-body div.row:nth-child(3)>div:nth-child(4){
 	float: none !important;
     width: min-content;
     margin: 0 auto;
