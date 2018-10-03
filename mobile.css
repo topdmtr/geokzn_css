@@ -331,7 +331,7 @@
   }
   .wrapper.main-body>div.row:nth-child(3)>div>div:nth-child(3){
 	  float: none !important;
-	  padding: 5px;
+	  padding: 5px !important;
   }
   .wrapper.main-body>div.row:nth-child(3)>div>div:nth-child(3)>div:nth-child(1){
 	  margin:0 auto;
