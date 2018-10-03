@@ -662,7 +662,10 @@
   .rights a{
 	  display: block;
   }
-}
+  .wrapper.main-body>div.row:nth-child(4)>div:nth-child(1){
+	  width: 97%;
+  }
+ }
 @media screen and (max-width: 389px){
   .row iframe {
     width: 344px;
