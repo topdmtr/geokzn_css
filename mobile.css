@@ -329,6 +329,13 @@
   .discount-small .discount-small-image {
     width: auto;
   }
+  .wrapper.main-body>div.row:nth-child(3)>div.row:nth-child(2){
+	  float: none !important;
+	  padding: 5px;
+  }
+  .wrapper.main-body>div.row:nth-child(3)>div.row:nth-child(2)>div:nth-child(1){
+	  margin:0 auto;
+  }
 }
 @media screen and (max-width: 721px){
  /* .main-body header .basket {
@@ -496,6 +503,9 @@
     float: left;
     padding: 0;
     background: none;
+  }
+  .wrapper.main-body>div.row:nth-child(3)>div.row:nth-child(2)>div:nth-child(1){
+	  width: auto !important;
   }
 }
 @media screen and (max-width: 527px){
