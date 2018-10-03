@@ -436,6 +436,9 @@
   #stopline .mail .e {
     margin-right: 0px;
   }
+  .form-2 .demo-1, .form-2 .demo-2 {
+    width: auto;
+  }
 }
 @media screen and (max-width: 552px){
   .top-nav>ul>li{
@@ -474,6 +477,17 @@
   }
   .search .white {
     width: 80%;
+  }
+}
+@media screen and (max-width: 540px){
+  .form-2 .demo-1 .box-1 {
+    display: none;
+  }
+ .whole-2.input-mini-2 .demo-1 table tr,
+ .whole-2.input-mini-2 .demo-2 table tr {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
   }
 }
 @media screen and (max-width: 527px){
