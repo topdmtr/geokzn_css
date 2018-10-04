@@ -1,0 +1,17 @@
+.top-nav>ul>li>ul {
+    position: initial;
+    margin-left: 30px;
+    text-align: left;
+}
+.top-nav>ul>li>ul>li:before {
+    display: none;
+}
+.top-nav>ul>li>ul>li:after {
+    display: none;
+}
+.top-nav>ul>li>ul:before {
+    display: none;
+}
+.top-nav>ul>li>ul:after {
+    display: none;
+}

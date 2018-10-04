@@ -278,6 +278,11 @@
     width: 690px;
     height: 384px;
   }
+  .brands {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
 }
 @media screen and (max-width: 763px){
   #stopline {
