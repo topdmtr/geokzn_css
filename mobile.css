@@ -495,6 +495,19 @@
   .search .white {
     width: 80%;
   }
+  .top-nav>ul>li>ul {
+	display: block;
+    position: initial;
+    margin-left: 30px;
+    text-align: left;
+  }
+  .top-nav>ul>li>ul>li:before, 
+  .top-nav>ul>li>ul>li:after,
+  .top-nav>ul>li>ul:before,
+  .top-nav>ul>li>ul:after
+  {
+    display: none;
+  }
 }
 @media screen and (max-width: 540px){
   .form-2 .demo-1 .box-1 {
