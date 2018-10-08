@@ -431,6 +431,9 @@
     width: -webkit-fill-available;
     padding: 10px 10px;
   }	
+  footer .footer {
+    background: none;
+  }
 }
 @media screen and (max-width: 600px){
   .search .white {
@@ -453,8 +456,13 @@
   #stopline .mail .e {
     margin-right: 0px;
   }
-  .form-2 .demo-1, .form-2 .demo-2 {
+  .form-2 .demo-1, .form-2 .demo-2, .form-2 .demo-3 {
     width: auto;
+  }
+  .btn-4 {
+    width: auto;
+    margin: 0 auto;
+    float: none;
   }
 }
 @media screen and (max-width: 552px){
