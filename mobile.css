@@ -464,6 +464,9 @@
     margin: 0 auto;
     float: none;
   }
+  .form-2 table {
+    width: -webkit-fill-available;
+  }
 }
 @media screen and (max-width: 552px){
   .top-nav>ul>li{
